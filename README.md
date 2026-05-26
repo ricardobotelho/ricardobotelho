@@ -26,7 +26,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobotelho&hide_progress=true)
 
 ## 📖 &nbsp;Social Links
 
